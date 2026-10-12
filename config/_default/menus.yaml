@@ -5,13 +5,13 @@
 
 main:
   - name: Bio
-    url: /
+    url: content/authors/admin/
     weight: 10
   - name: Papers
     url: /#papers
     weight: 11
-  - name: Talks
-    url: /#talks
+  - name: Posts
+    url: content/posts/
     weight: 12
   - name: News
     url: /#news
