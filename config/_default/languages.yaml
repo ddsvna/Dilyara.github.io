@@ -5,9 +5,15 @@
 # Default language
 en:
   locale: en-us
+  languageCode: en-us
+  contentDir: content/en
+  weight: 1
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
-
+ru:
+  languageCode: ru-ru
+  contentDir: content/ru
+  weight: 2
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  locale: zh-Hans
